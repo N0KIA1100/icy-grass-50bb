@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "icy-grass-50bb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ecc0b9e3-ac17-46f4-aeee-818232754aa8",
+      "database_name": "icy-grass-50bb-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
